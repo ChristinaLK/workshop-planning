@@ -39,6 +39,6 @@ running a workshop:
 
 > ## Checklist
 >
-> Print out the form [here]({{site.github.repository_url}}/files/checklist-getting-started.md) 
+> Print out the form [here]({{site.github.repository_url}}/blob/gh-pages/files/checklist-getting-started.md) 
 > (also included below) to help you with this stage of workshop planning.  
 {: .challenge}
