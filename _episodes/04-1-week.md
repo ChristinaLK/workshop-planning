@@ -17,18 +17,20 @@ Some concrete tasks that you can/should do:
 
 ## 7 days before the workshop
 
+Email participants
+
 ## Sometime in the week before the workshop
 
-Email participants about SW install / releasing registration
-Print cheatsheets or other materials
-Release waitlist (if appropriate)
-Look at pre-workshop surveys
+* Copy cheatsheets
+* Supplies: sticky notes, markers, nametags
+* Power cables (if necessary)
+* Adapters (e.g. VGA for Macs)
+* Make signs
 
 ## 1-2 days before the workshop
 
 Email participants again with last minute reminders
 Check in with instructors
-
 
 
 > ## Checklist
