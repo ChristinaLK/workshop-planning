@@ -29,13 +29,13 @@ running a workshop:
 	* Helpers
 	* Audience
 
-# Date
+## Date
 
-# Room
+## Room
 
-# Instructors and Helpers
+## Instructors and Helpers
 
-# Audience
+## Audience
 
 > ## Checklist
 >

@@ -15,16 +15,16 @@ preparing items, sending emails, responding to emails, managing registration, an
 
 Some concrete tasks that you can/should do: 
 
-# 7 days before the workshop
+## 7 days before the workshop
 
-# Sometime in the week before the workshop
+## Sometime in the week before the workshop
 
 Email participants about SW install / releasing registration
 Print cheatsheets or other materials
 Release waitlist (if appropriate)
 Look at pre-workshop surveys
 
-# 1-2 days before the workshop
+## 1-2 days before the workshop
 
 Email participants again with last minute reminders
 Check in with instructors

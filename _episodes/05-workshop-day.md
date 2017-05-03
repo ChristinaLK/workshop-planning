@@ -1,5 +1,5 @@
 ---
-title: "The Week Before"
+title: "Workshop Day"
 teaching: 10
 exercises: 0
 questions:
@@ -10,3 +10,4 @@ keypoints:
 - " "
 ---
 
+## TBD

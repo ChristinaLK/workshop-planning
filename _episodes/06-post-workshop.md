@@ -1,5 +1,5 @@
 ---
-title: "After the workshop"
+title: "After the Workshop"
 teaching: 10
 exercises: 0
 questions:
@@ -9,3 +9,5 @@ objectives:
 keypoints:
 - " "
 ---
+
+## TBD
