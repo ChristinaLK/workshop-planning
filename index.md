@@ -21,7 +21,7 @@ add your own ideas or contribute.
 >
 > If you are a Carpentry-certified 
 instructor and can get access to a workshop space, you already have all you need 
-to get started.  Don't be daunted -- everything you need should be contained 
+to get started!  Don't be daunted -- everything you need should be contained 
 in this guide.  
 {: .prereq}
 

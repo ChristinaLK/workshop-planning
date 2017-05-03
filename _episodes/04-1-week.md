@@ -35,6 +35,6 @@ Check in with instructors
 
 > ## Checklist
 >
-> Print out the form [here]({{site.root}}/files/checklist-week-before.md) 
+> Print out the form [here]({{site.github.repository_url}}/files/checklist-week-before.md) 
 > (also included below) to help you with this stage of workshop planning.  
 {: .challenge}
