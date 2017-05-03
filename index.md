@@ -13,10 +13,9 @@ wants to run a local workshop, but could also be used by an organizer
 or host who wants to partner with the Software Carpentry in organizing 
 a workshop.  
 
-For guidelines on how to help improve our lessons and this template,
-please see [the contribution guidelines][contributing];
-for guidelines on how to set up your machine to preview changes locally,
-please see [the setup instructions]({{ page.root }}/setup/).
+This is a community document!  See 
+[the contribution guidelines][contributing] for how to 
+add your own ideas or contribute.  
 
 > ## Prerequisites
 >
