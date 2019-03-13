@@ -1,5 +1,5 @@
 ---
-title: "Workshop Day"
+title: "Blast-Off!"
 teaching: 10
 exercises: 0
 questions:

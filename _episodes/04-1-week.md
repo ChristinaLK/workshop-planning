@@ -1,5 +1,5 @@
 ---
-title: "The Week Before"
+title: "One Week: Reminders"
 teaching: 10
 exercises: 0
 questions:
@@ -10,10 +10,10 @@ keypoints:
 - " "
 ---
 
-The week before your workshop will be busy!  Plan to spend at least 1 hour a day, 
+The week before your workshop will be busy!  Plan to spend at least 1 hour a day,
 preparing items, sending emails, responding to emails, managing registration, and so on.  
 
-Some concrete tasks that you can/should do: 
+Some concrete tasks that you can/should do:
 
 ## 7 days before the workshop
 
@@ -32,9 +32,8 @@ Email participants
 Email participants again with last minute reminders
 Check in with instructors
 
-
 > ## Checklist
 >
-> Print out the form [here]({{site.github.repository_url}}/blob/gh-pages/files/checklist-week-before.md) 
+> Print out the form [here]({{site.github.repository_url}}/blob/gh-pages/files/checklist-week-before.md)
 > (also included below) to help you with this stage of workshop planning.  
 {: .challenge}
